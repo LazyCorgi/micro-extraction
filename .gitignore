@@ -1,0 +1,6 @@
+.qodo
+.vscode
+
+Makefile
+.qmake.stash
+build/
